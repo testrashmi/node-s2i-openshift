@@ -1,5 +1,3 @@
-COPY site /app/site
-
 FROM node:10-slim
   
 USER node
